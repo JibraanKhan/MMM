@@ -41,9 +41,15 @@ div.dataset{
 div.representors{
   float:left;
   font-size: 40px;
+  background-color: gold;
+  border-style: groove;
+  border-radius: 28px;
 }
 
 div.values{
   float:right;
   font-size: 40px;
+  background-color: darkgreen;
+  border-style: groove;
+  border-radius: 28px;
 }
