@@ -1,0 +1,49 @@
+h1, div.header, p, h2, h3, h4, h5{
+  color: white;
+}
+
+h1{
+  text-align: center;
+  font-size: 72px;
+  font-family: Eczar;
+  margin: auto;
+}
+
+body{
+  background-color: black;
+}
+
+div.header, div.datasetheader{
+  border-bottom: 10px;
+  border-bottom-style: outset;
+  border-bottom-color: darkred;
+  background-color: crimson;
+  border-radius: 28px;
+}
+
+div.about, div.dataset{
+  text-indent: 50px;
+  font-size: 24px;
+  font-family: Trirong;
+  background-color: skyblue;
+  border: 10px;
+  border-radius: 14px;
+  border-color: navy;
+}
+
+div.dataset{
+  text-align: center;
+  text-indent: 0px;
+  font-size: 50px;
+  background-color: violet;
+}
+
+div.representors{
+  float:left;
+  font-size: 40px;
+}
+
+div.values{
+  float:right;
+  font-size: 40px;
+}
